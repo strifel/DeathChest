@@ -1,0 +1,5 @@
+name: DeathChest
+author: strifel
+version: '1.0'
+
+main: de.strifel.deathchest.DeathChest
